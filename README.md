@@ -5,14 +5,8 @@
 
 ### 🧠 About Me
 
-- 🎓 Final-year B.Tech student with a CGPA of **8.79**
 - 🔭 Currently diving deep into **Deep Learning Specialization** by Andrew Ng
 - 🧩 Exploring **NLP**, **Prompt Engineering**, and **LLMs** for real-world applications
-- 🧪 Building projects around:
-  - Phishing Detection (SVM & Flask)
-- 🧠 Learning from courses like:
-  - Columbia University – NLP & Prompt Engineering
-  - Udemy – LLM Engineering, Agents, and GenAI
 - 🛠 I enjoy building **ML models from scratch** using just `NumPy`
 - 🧑‍🔬 Strong focus on **mathematics for AI**, optimization & model internals
 
