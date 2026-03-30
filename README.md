@@ -30,6 +30,7 @@
 - 💼 LinkedIn: [linkedin.com/in/dhruv-panchal](https://www.linkedin.com/in/dhruv-panchal-74b4a4361/)
 - 🧠 Ask me about: Deep Learning, LLMs, NLP and building from scratch
 - ⚡ Fun fact: I think clearer at night than during the day 🌙
+- 🏢 Portfolio Website: [dhruvpanchal7](https://dhruvpanchal7.vercel.app/)
 
 ---
 
