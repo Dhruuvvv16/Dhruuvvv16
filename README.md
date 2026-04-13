@@ -25,8 +25,6 @@
 ![EJS](https://img.shields.io/badge/EJS-8B0000?style=flat-square)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Neon DB](https://img.shields.io/badge/NeonDB-00E599?style=flat-square)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
 ![LLM](https://img.shields.io/badge/LLM-Powered-blueviolet?style=flat-square)
