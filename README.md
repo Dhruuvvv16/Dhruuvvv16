@@ -34,15 +34,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhruuvvv16&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruuvvv16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhruuvvv16&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
