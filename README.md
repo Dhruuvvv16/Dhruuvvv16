@@ -2,8 +2,6 @@
 <h3 align="center">Aspiring AI Engineer | LLMs • Deep Learning • NLP • Generative AI</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Dhruuvvv16?label=Followers&style=flat-square" />
-  <img src="https://img.shields.io/github/stars/Dhruuvvv16?label=Stars&style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-AI%20Engineering-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Building%20in%20Public-success?style=flat-square" />
 </p>
