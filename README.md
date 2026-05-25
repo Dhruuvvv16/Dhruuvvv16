@@ -12,22 +12,22 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently focused on **AI Engineering, Deep Learning, NLP, and LLM-based applications**
-- 🧩 Building practical systems with **OpenAI APIs, Hugging Face, and machine learning workflows**
-- 🛠 I like understanding things deeply and often build **models from scratch using NumPy**
-- 📚 Strong interest in **mathematics for AI, optimization, and model internals**
-- 🌱 Completed **full-stack development** and now prioritizing **AI/ML over React**
-- 🚀 My goal is to build intelligent, useful, and scalable AI products
+- Currently focused on **AI Engineering, Deep Learning, NLP, and LLM-based applications**
+- Building practical systems with **OpenAI APIs, Hugging Face, and machine learning workflows**
+- I like understanding things deeply and often build **models from scratch using NumPy**
+- Strong interest in **mathematics for AI, optimization, and model internals**
+- Completed **full-stack development** and now prioritizing **AI/ML over React**
+- My goal is to build intelligent, useful, and scalable AI products
 
 ---
 
 ### 🏆 Highlights
 
-- ✅ Completed full-stack development foundation
-- ✅ Built projects using **Node.js, Express, Flask, PostgreSQL, and APIs**
-- ✅ Exploring and applying **LLMs, prompt engineering, NLP, and deep learning**
-- ✅ Comfortable moving between **frontend, backend, and AI tooling**
-- ✅ Focused on becoming an **AI engineer who can build real products**
+- Completed full-stack development foundation
+- Built projects using **Node.js, Express, Flask, PostgreSQL, and APIs**
+- Exploring and applying **LLMs, prompt engineering, NLP, and deep learning**
+- Comfortable moving between **frontend, backend, and AI tooling**
+- Focused on becoming an **AI engineer who can build real products**
 
 ---
 
@@ -96,9 +96,9 @@
 
 ### 💬 Let's Connect
 
-- 📫 Email: `abc@gmail.com`
-- 💼 LinkedIn: [your-linkedin]
-- 🌐 Portfolio: [your-portfolio]
+- 📫 Email: `dhruvjp04@gmail.com`
+- 💼 LinkedIn: [linkedin.com/in/dhruv-panchal](https://www.linkedin.com/in/dhruv-panchal-74b4a4361/)
+- 🌐 Portfolio: [dhruvpanchal7](https://dhruvpanchal7.vercel.app/)
 - 🧠 Ask me about: Deep Learning, LLMs, NLP, AI Engineering
 - ⚡ Fun fact: I think clearer at night than during the day 🌙
 
