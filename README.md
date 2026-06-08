@@ -37,6 +37,14 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhruuvvv16&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,docker,git,linux,mongodb,fastapi" />
+</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+%7C+ML+%7C+LLMs;Building+Intelligent+Systems;Always+Learning+Something+New)](https://git.io/typing-svg)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 ### 🛠 Tech Stack
 
 #### AI / ML / Data
