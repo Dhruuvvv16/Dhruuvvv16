@@ -35,6 +35,8 @@
 
 ---
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhruuvvv16&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 ### 🛠 Tech Stack
 
 #### AI / ML / Data
