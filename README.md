@@ -29,6 +29,12 @@
 
 ---
 
+## 🔥 GitHub Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dhruuvvv16&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+---
+
 ### 🛠 Tech Stack
 
 #### AI / ML / Data
