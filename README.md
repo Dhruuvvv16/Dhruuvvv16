@@ -33,7 +33,9 @@
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhruuvvv16)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhruuvvv16&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Dhruuvvv16&theme=tokyonight)
 
 ---
 
