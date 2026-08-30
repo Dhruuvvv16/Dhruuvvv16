@@ -35,7 +35,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Dhruuvvv16&theme=tokyonight)
 
-![GitHub Contributions](https://github.pumbas.net/api/contributions/Dhruuvvv16?colour=7aa2f7&bgColour=transparent)
+![GitHub Contributions](https://github.pumbas.net/api/contributions/Dhruuvvv16?colour=7aa2f7&bgColour=16161e)
 
 ---
 
