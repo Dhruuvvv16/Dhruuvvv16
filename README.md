@@ -35,7 +35,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Dhruuvvv16&theme=tokyonight)
 
-![GitHub Contributions](https://kolezka-cards.vercel.app/api/profile-summary?username=Dhruuvvv16&period=1y)
+![GitHub Contributions](https://github.pumbas.net/api/contributions/Dhruuvvv16)
 
 ---
 
