@@ -35,6 +35,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Dhruuvvv16&theme=tokyonight)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhruuvvv16&theme=tokyo-night)
+
 ---
 
 ### 🛠 Tech Stack
