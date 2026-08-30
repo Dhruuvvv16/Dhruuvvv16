@@ -33,10 +33,7 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhruuvvv16&show_icons=true&theme=tokyonight)
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhruuvvv16)
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhruuvvv16&theme=tokyo-night&hide_border=true&area=true)
 ---
 
 ### 🛠 Tech Stack
